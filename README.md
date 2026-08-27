@@ -126,7 +126,7 @@ Motor power (VM) is taken from the raw battery rail, separate from the regulated
 
 ```
 /firmware       — Arduino/ESP32 source code
-/hardware       — KiCad schematic and PCB files
+/hardware       — ALTIUM schematic and PCB files
 /docs           — wiring diagrams, pin maps, BOM
 README.md       — this file
 ```
